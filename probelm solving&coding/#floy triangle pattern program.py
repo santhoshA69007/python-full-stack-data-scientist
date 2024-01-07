@@ -1,4 +1,4 @@
-#floy triangle pattern program
+#floyd triangle pattern program
 n=int(input("enter the no of rows:"))
 num=1
 for row in range(1,n+1):
