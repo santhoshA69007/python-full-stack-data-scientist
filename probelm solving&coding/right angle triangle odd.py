@@ -5,4 +5,6 @@ for i in range(1,num+1):
         print(end="*")
     k=k+2
     print()
-if __name__=="__main__":
+
+
+
